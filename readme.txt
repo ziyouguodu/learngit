@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Git is aversion control system"
+echo "Git is a distributed aversion control system"
 Git is free software
