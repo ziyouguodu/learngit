@@ -10,3 +10,4 @@ Creating a new branch is quick and simple
 >>>>>>> featurel
 to be or not to be
 yes to do 
+add merge
